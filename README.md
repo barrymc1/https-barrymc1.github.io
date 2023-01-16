@@ -4,7 +4,7 @@ reading notes for tech educators
 # Markdown
 
 # I AM Barrymc1
-I am quite a novice at coding but i know more than a beginner, i want to keep developing my skills so i can become a devleoper.Here is a link to my github portfolio, there isnt much in terms of code there at the moment but plenty more will be coming soon. Here is a link to my [Github profile](https://github.com/barrymc1) In my spare time i like to cycle a lot, play some music and watch the footy when i get a chance.
+I am quite a novice at coding but i know more than a beginner, i want to keep developing my skills so i can become a devleoper.Here is a link to my github portfolio [Github profile](https://github.com/barrymc1), there isnt much in terms of code there at the moment but plenty more will be coming soon. In my spare time i like to cycle a lot, play some music and watch the footy when i get a chance.
 
 ### This website
 is for my reading notes during the completion of this course from tech educators
@@ -16,9 +16,9 @@ growth mindset helps people to develop, overcome challenges, be confident in the
 
 ### 3 ways to stay in a growth mindset
 
-- Think of what **can** happen , not what wont happen
-- Visualise your sucess/goals 
-- Always be willing to learn, never think that you know everything on a subject
+1. Think of what **can** happen , not what wont happen
+2. Visualise your sucess/goals 
+3. Always be willing to learn, never think that you know everything on a subject
    
    
 
