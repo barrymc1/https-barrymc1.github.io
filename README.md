@@ -28,21 +28,21 @@ is for my reading notes during the completion of this course from tech educators
 
 
 # code 201
-1. class 01
-2. class 02
-3. class 03
-4. class 04
-5. class 05
-6. class 06
-7. class 07
-8. class 08
-9. class 09
-10. class 10
-11. class 11 
-12. class 12
-13. class 13
-14. class 14
-15. class 15
+1. [class 01](https://github.com/barrymc1/https-barrymc1.github.io/commit/4e88396424180635669260065e4e8d710567f6b9)
+2. [class 02](https://github.com/barrymc1/https-barrymc1.github.io/blob/main/Class%2002)
+3. [class 03](https://github.com/barrymc1/https-barrymc1.github.io/blob/main/Class%2003)
+4. [class 04](https://github.com/barrymc1/https-barrymc1.github.io/blob/main/Class%2004)
+5. [class 05](https://github.com/barrymc1/https-barrymc1.github.io/blob/main/Class%2005)
+6. [class 06](https://github.com/barrymc1/https-barrymc1.github.io/blob/main/Class%2006)
+7. [class 07](https://github.com/barrymc1/https-barrymc1.github.io/commit/7a24bccca9d111b59bd188a8f372aee1cad50df0)
+8. [class 08](https://github.com/barrymc1/https-barrymc1.github.io/blob/main/Class%2008)
+9. [class 09](https://github.com/barrymc1/https-barrymc1.github.io/blob/main/Class%2009)
+10. [class 10](https://github.com/barrymc1/https-barrymc1.github.io/blob/main/Class%2010)
+11. [class 11]()
+12. [class 12]()
+13. [class 13]()
+14. [class 14]()
+15. [class 15]()
 
 
 
