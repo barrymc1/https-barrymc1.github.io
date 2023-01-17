@@ -11,6 +11,7 @@ is for my reading notes during the completion of this course from tech educators
 
 [Page 2](https://github.com/barrymc1/https-barrymc1.github.io/blob/main/page2)
 
+[html](https://github.com/barrymc1/https-barrymc1.github.io/blob/main/html)
 
 Growth Mindset
 
