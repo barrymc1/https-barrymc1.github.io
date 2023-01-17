@@ -15,15 +15,15 @@ is for my reading notes during the completion of this course from tech educators
 
 # code 102
 
-1. class 01-learning markdown
-2. class 02-the coders computer 
-3. class 03-Revisions and the cloud
-4. class 04-structure web pages with html
-5. class 05-design pages with css
-6. class 06-programming with javascript
-7. class 07-operators and loops
-8. class 08-career coaching
-9. class 09-career coaching
+1. class 01-[learning markdown](https://github.com/barrymc1/https-barrymc1.github.io/blob/main/Learning%20Markdown)
+2. class 02-[the coders computer](https://github.com/barrymc1/https-barrymc1.github.io/blob/main/The%20Coders%20Computer)
+3. class 03-[Revisions and the cloud](https://github.com/barrymc1/https-barrymc1.github.io/blob/main/Revisions%20and%20the%20cloud)
+4. class 04-[structure web pages with html](https://github.com/barrymc1/https-barrymc1.github.io/blob/main/Structure%20Web%20pages%20with%20HTML)
+5. class 05-[design pages with css](https://github.com/barrymc1/https-barrymc1.github.io/commit/6e2f843ae865dceb2cb42143903df0cd04f7ba04)
+6. class 06-[programming with javascript](https://github.com/barrymc1/https-barrymc1.github.io/blob/main/Programming%20with%20Javascript)
+7. class 07-[operators and loops](https://github.com/barrymc1/https-barrymc1.github.io/blob/main/Operators%20and%20Loops)
+8. class 08-[career coaching](https://github.com/barrymc1/https-barrymc1.github.io/commit/ca63972f4921ec9987d51dd14ab534318964e9d3)
+9. class 09-[career coaching](https://github.com/barrymc1/https-barrymc1.github.io/commit/bcbb3a844fa0caf911da6e6518ed14d88b6da9bf)
 
 
 
