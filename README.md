@@ -13,6 +13,40 @@ is for my reading notes during the completion of this course from tech educators
 
 [html](https://github.com/barrymc1/https-barrymc1.github.io/blob/main/html)
 
+# code 102
+
+1. class 01-learning markdown
+2. class 02-the coders computer 
+3. class 03-Revisions and the cloud
+4. class 04-structure web pages with html
+5. class 05-design pages with css
+6. class 06-programming with javascript
+7. class 07-operators and loops
+8. class 08-career coaching
+9. class 09-career coaching
+
+
+
+# code 201
+1. class 01
+2. class 02
+3. class 03
+4. class 04
+5. class 05
+6. class 06
+7. class 07
+8. class 08
+9. class 09
+10. class 10
+11. class 11 
+12. class 12
+13. class 13
+14. class 14
+15. class 15
+
+
+
+
 Growth Mindset
 
 growth mindset helps people to develop, overcome challenges, be confident in their ability. Having a growth mindset is extremely vauable in life and gives a person many more options personally and professionally because they are more likely to have new experiences that willl help to change their perceptions on life, work, family and more.
