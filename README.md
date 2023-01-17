@@ -9,6 +9,8 @@ I am quite a novice at coding but i know more than a beginner, i want to keep de
 ### This website
 is for my reading notes during the completion of this course from tech educators
 
+[Page 2](https://pages.github.com/)
+
 
 Growth Mindset
 
